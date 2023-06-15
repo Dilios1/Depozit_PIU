@@ -1,0 +1,2 @@
+Masa; Masa Lemn; Lemn; Alb;2;500
+Masa; Masa Rotunda; Lemn; Rosu;6;300

@@ -1,0 +1,15 @@
+C:\Users\doina\source\repos\Proiect PIU\DepozitMobila\obj\Debug\net6.0\DepozitMobila.csproj.AssemblyReference.cache
+C:\Users\doina\source\repos\Proiect PIU\DepozitMobila\obj\Debug\net6.0\DepozitMobila.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\doina\source\repos\Proiect PIU\DepozitMobila\obj\Debug\net6.0\DepozitMobila.AssemblyInfoInputs.cache
+C:\Users\doina\source\repos\Proiect PIU\DepozitMobila\obj\Debug\net6.0\DepozitMobila.AssemblyInfo.cs
+C:\Users\doina\source\repos\Proiect PIU\DepozitMobila\obj\Debug\net6.0\DepozitMobila.csproj.CoreCompileInputs.cache
+C:\Users\doina\source\repos\Proiect PIU\DepozitMobila\bin\Debug\net6.0\DepozitMobila.exe
+C:\Users\doina\source\repos\Proiect PIU\DepozitMobila\bin\Debug\net6.0\DepozitMobila.deps.json
+C:\Users\doina\source\repos\Proiect PIU\DepozitMobila\bin\Debug\net6.0\DepozitMobila.runtimeconfig.json
+C:\Users\doina\source\repos\Proiect PIU\DepozitMobila\bin\Debug\net6.0\DepozitMobila.dll
+C:\Users\doina\source\repos\Proiect PIU\DepozitMobila\bin\Debug\net6.0\DepozitMobila.pdb
+C:\Users\doina\source\repos\Proiect PIU\DepozitMobila\obj\Debug\net6.0\DepozitMobila.dll
+C:\Users\doina\source\repos\Proiect PIU\DepozitMobila\obj\Debug\net6.0\refint\DepozitMobila.dll
+C:\Users\doina\source\repos\Proiect PIU\DepozitMobila\obj\Debug\net6.0\DepozitMobila.pdb
+C:\Users\doina\source\repos\Proiect PIU\DepozitMobila\obj\Debug\net6.0\DepozitMobila.genruntimeconfig.cache
+C:\Users\doina\source\repos\Proiect PIU\DepozitMobila\obj\Debug\net6.0\ref\DepozitMobila.dll
